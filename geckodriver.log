@@ -1,0 +1,388 @@
+1574058642308	geckodriver	INFO	geckodriver 0.19.1
+1574058642334	geckodriver	INFO	Listening on 127.0.0.1:54545
+1574058644714	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.yEFoTvfWJ03e"
+1574058664073	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 7348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574058694464	Marionette	INFO	Listening on port 54551
+1574058695037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574058695317	Marionette	DEBUG	Register listener.js for window 4294967297
+1574058698491	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574058701097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574058701097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574058703104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574058703856	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574058712642	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574058712893	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574058712894	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574058712996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3MTI7fQ=="
+1574058713530	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3MTI7fQ=="
+1574058718582	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3MTI7fQ=="
+1574058718613	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3MTI7fQ=="
+1574058718614	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3MTI7fQ=="
+1574058718703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574058718784	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574058726875	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574058726956	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574058726957	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574058727021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3Mjc7fQ=="
+1574058727289	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3Mjc7fQ=="
+1574058732330	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3Mjc7fQ=="
+1574058732361	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3Mjc7fQ=="
+1574058732361	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3Mjc7fQ=="
+1574058732446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574058732505	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574058740604	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574058740678	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574058740678	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574058740811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3NDA7fQ=="
+1574058740854	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3NDA7fQ=="
+1574058745877	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3NDA7fQ=="
+1574058745903	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3NDA7fQ=="
+1574058745903	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTg3NDA7fQ=="
+1574058746017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574058746146	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059066499	geckodriver	INFO	geckodriver 0.19.1
+1574059066514	geckodriver	INFO	Listening on 127.0.0.1:54783
+1574059068548	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.JCwbq6ld5LxD"
+1574059071504	Marionette	INFO	Enabled via --marionette
+[Child 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574059080515	Marionette	INFO	Listening on port 54789
+1574059080953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574059081078	Marionette	DEBUG	Register listener.js for window 4294967297
+1574059081115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574059081740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574059081740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574059082098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059082376	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059091064	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059091183	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059091183	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059091390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkwOTE7fQ=="
+1574059091481	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkwOTE7fQ=="
+1574059096498	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkwOTE7fQ=="
+1574059096529	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkwOTE7fQ=="
+1574059096529	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkwOTE7fQ=="
+1574059096630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059096693	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059104796	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059104880	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059104881	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059104962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMDQ7fQ=="
+1574059104991	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMDQ7fQ=="
+1574059110006	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMDQ7fQ=="
+1574059110036	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMDQ7fQ=="
+1574059110037	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMDQ7fQ=="
+1574059110095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059110196	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059118282	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059118361	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059118362	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059118461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMTg7fQ=="
+1574059118471	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMTg7fQ=="
+1574059123484	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMTg7fQ=="
+1574059123517	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMTg7fQ=="
+1574059123518	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTkxMTg7fQ=="
+1574059123623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059123701	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059433578	geckodriver	INFO	geckodriver 0.19.1
+1574059433589	geckodriver	INFO	Listening on 127.0.0.1:54986
+1574059435551	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.2f6vt2NU5Pcq"
+1574059437790	Marionette	INFO	Enabled via --marionette
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574059443320	Marionette	INFO	Listening on port 54992
+1574059443494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574059443610	Marionette	DEBUG	Register listener.js for window 4294967297
+1574059443682	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574059443846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574059443846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574059444118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059444348	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059452988	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059453093	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059453094	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059453161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NTM7fQ=="
+1574059453221	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NTM7fQ=="
+1574059458233	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NTM7fQ=="
+1574059458271	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NTM7fQ=="
+1574059458271	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NTM7fQ=="
+1574059458329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059458444	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059466540	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059466725	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059466725	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059466813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NjY7fQ=="
+1574059466820	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NjY7fQ=="
+1574059471830	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NjY7fQ=="
+1574059471860	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NjY7fQ=="
+1574059471861	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0NjY7fQ=="
+1574059472011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059472070	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574059480159	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574059480232	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574059480233	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574059480323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0ODA7fQ=="
+1574059480348	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0ODA7fQ=="
+1574059485364	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0ODA7fQ=="
+1574059485392	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0ODA7fQ=="
+1574059485392	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNTk0ODA7fQ=="
+1574059485490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574059485568	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060335878	geckodriver	INFO	geckodriver 0.19.1
+1574060335890	geckodriver	INFO	Listening on 127.0.0.1:55196
+1574060337771	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.4x7TqQQFHwsc"
+1574060340093	Marionette	INFO	Enabled via --marionette
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574060345319	Marionette	INFO	Listening on port 55202
+1574060345653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574060345785	Marionette	DEBUG	Register listener.js for window 4294967297
+1574060345876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574060345962	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574060345962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574060346416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060346639	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060350197	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060350257	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060350257	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060350356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060350367	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060353622	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060354465	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060354466	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060354519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060354582	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060359631	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060359682	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060359682	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060359755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060359794	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060365239	geckodriver	INFO	geckodriver 0.19.1
+1574060365262	geckodriver	INFO	Listening on 127.0.0.1:55326
+1574060367176	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.PaIYu2YXhctE"
+1574060369278	Marionette	INFO	Enabled via --marionette
+[Parent 2008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574060373467	Marionette	INFO	Listening on port 55332
+1574060373513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574060373622	Marionette	DEBUG	Register listener.js for window 4294967297
+1574060373827	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574060373983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574060373983	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574060374154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060374677	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060383290	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060383373	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060383373	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060383426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzODM7fQ=="
+1574060383469	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzODM7fQ=="
+1574060388489	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzODM7fQ=="
+1574060388518	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzODM7fQ=="
+1574060388518	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi6Iu55p6cIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzODM7fQ=="
+1574060388604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060388643	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060396734	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060396807	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060396807	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060396897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzOTY7fQ=="
+1574060396904	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzOTY7fQ=="
+1574060401914	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzOTY7fQ=="
+1574060401946	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzOTY7fQ=="
+1574060401946	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6Njoi5LiJ5pifIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjAzOTY7fQ=="
+1574060402030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060402097	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060410190	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060410268	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060410269	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060410353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjA0MTA7fQ=="
+1574060410359	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjA0MTA7fQ=="
+1574060415367	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjA0MTA7fQ=="
+1574060415395	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjA0MTA7fQ=="
+1574060415395	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/search.php?encode=YTo0OntzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6ODoia2V5d29yZHMiO3M6OToi6K%2b65Z%2b65LqaIjtzOjEwOiJpbWFnZUZpZWxkIjtzOjA6IiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE1NzQwNjA0MTA7fQ=="
+1574060415488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060415603	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060418938	geckodriver	INFO	geckodriver 0.19.1
+1574060418950	geckodriver	INFO	Listening on 127.0.0.1:55476
+1574060420983	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.avqi8fxIWge9"
+1574060423384	Marionette	INFO	Enabled via --marionette
+[Parent 8432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1574060428174	Marionette	INFO	Listening on port 55482
+1574060428413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574060428525	Marionette	DEBUG	Register listener.js for window 4294967297
+1574060428581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1574060428635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1574060428636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1574060428984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/"
+1574060429269	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/"
+1574060432852	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/"
+1574060432907	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/"
+1574060432908	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/"
+1574060433017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060433030	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060436676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060440136	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060440194	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060440194	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060440270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060440280	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060445328	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060445413	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060445413	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060445457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060445504	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060450551	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060450599	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060450600	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060450653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060450694	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060454267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060457344	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060457424	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060457425	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060457466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060457498	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060462546	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060462594	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060462595	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060462640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060462674	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060467723	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060467778	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060467778	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060467843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060467871	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060471450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060474519	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060474579	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060474580	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060474635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060474644	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060479690	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060479745	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060479745	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060479797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060479832	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060484867	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060484917	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060484918	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060484981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060485008	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060488557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060491629	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060491950	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060491951	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060492007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060492037	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060497092	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060497145	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060497146	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060497205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060497228	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060502265	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060502622	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060502623	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060502709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060502720	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060506297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060509377	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060509439	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060509439	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060509481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060509512	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060514564	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060514612	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060514613	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060514661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060514692	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060519729	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060519784	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060519784	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060519836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060519858	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060523381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060526450	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060526518	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060526518	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060526561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060526578	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060531616	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060531668	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060531668	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060531713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060531749	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060536781	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060536833	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060536834	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060536899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060536910	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060540444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060543501	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060543572	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060543573	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060543710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060543770	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060548920	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060548971	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060548971	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060549022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060549044	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060554075	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060554121	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060554121	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060554164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060554187	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060557693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060560763	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060560825	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060560827	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060560876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060560892	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060565946	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060565994	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060565994	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060566088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060566107	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060571140	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/index.php"
+1574060571189	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/index.php"
+1574060571190	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/index.php"
+1574060571236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060571277	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060574848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1574060577937	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060577991	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060577992	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php?act=register"
+1574060578041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php"
+1574060578050	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php"
+1574060583088	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.2.143/ecshop/user.php"
+1574060583134	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.2.143/ecshop/user.php"
+1574060583135	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.2.143/ecshop/user.php"
+1574060583198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.2.143/ecshop/user.php?act=logout"
+1574060583208	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.2.143/ecshop/user.php?act=logout"
