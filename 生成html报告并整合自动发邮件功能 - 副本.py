@@ -19,9 +19,9 @@ def send_mail(file_new):
     password = 'acdiggbwmkubbhfa' # 授权码
 
     # 发送邮箱
-    sender = '337852342@qq.com'
+    sender = '****2@qq.com'
     # 接收邮箱
-    receiver = '568330959@qq.com'   #  'dehom_123@163.com'
+    receiver = '****@qq.com'   #  'dehom_123@163.com'
     #receiver = 'dehom_123@163.com'
 
  #   msg = MIMEText(mail_body, 'html', 'utf-8')
